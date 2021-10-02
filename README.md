@@ -1,7 +1,9 @@
 # Student Management System
 Student Management system is a basic and effective management system whose intention is to make data entry easy for universities and college staff. It helps in proper management of different datas and also executes various tasks too. I have developed this project using pycharm in which I have imported interfaces like Tkinter, SQLite3 and many more. This is the basic layout of project:
+
 ![1apro1](https://user-images.githubusercontent.com/82519341/135708535-e924dd2a-ff36-414a-bed0-0970144faf4b.PNG)
-![1apro1](https://user-images.githubusercontent.com/82519341/135708539-b4306cbb-a053-45d1-912b-12af142050a7.PNG)
+
+![1apro2](https://user-images.githubusercontent.com/82519341/135709453-2802fec0-d25e-4df2-a469-6a10be10a557.PNG)
 
 # Features
 There are various features of this project and they are:
