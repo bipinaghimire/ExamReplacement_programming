@@ -26,9 +26,9 @@ The scopes of this project are listed down below:
 2. Any academy which want effective way of adding, updating or deletion of data can use this.
 3. For any institution who wants easier track of student information and also decrease the staffs work load can use this system.
  
- Project Submitted by.
- Bipina Ghimire
- Batch - 30'B' Computing
- College ID - 210214
+ Project Submitted by:
+ Bipina Ghimire,  
+ Batch - 30'B' Computing,
+ College ID - 210214,
      
   THANK YOU
