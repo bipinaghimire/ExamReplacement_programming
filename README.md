@@ -28,7 +28,7 @@ The scopes of this project are listed down below:
  
  Project Submitted by:
  Bipina Ghimire,  
- Batch - 30'B' Computing,
- College ID - 210214,
+ Batch - 30'B' Computing,  
+ College ID - 210214
      
   THANK YOU
