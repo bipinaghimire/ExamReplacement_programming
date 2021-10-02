@@ -1,1 +1,1 @@
-# ExamReplacement_programming
+# Student Management System
